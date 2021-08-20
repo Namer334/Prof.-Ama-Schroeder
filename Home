@@ -1,0 +1,731 @@
+<!DOCTYPE HTML>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage" class="translated-ltr"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.-B-Yl1giugs.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCONWTFvihGrQAtWDoeeH_UUFfCMQg/cb=gapi.loaded_1?le=ili,ipu" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.-B-Yl1giugs.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCONWTFvihGrQAtWDoeeH_UUFfCMQg/cb=gapi.loaded_0?le=ili,ipu" async=""></script><script type="text/javascript">/* Copyright 2008 Google. */ (function() { /*
+
+Copyright The Closure Library Authors.
+SPDX-License-Identifier: Apache-2.0
+*/
+(function(){function e(g){this.t={};this.tick=function(h,k,f){this.t[h]=[void 0!=f?f:(new Date).getTime(),k];if(void 0==f)try{window.console.timeStamp("CSI/"+h)}catch(m){}};this.getStartTickTime=function(){return this.t.start[0]};this.tick("start",null,g)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var l=0<d?new e(d):new e;window.jstiming={Timer:e,load:l};if(a){var b=a.navigationStart;0<b&&d>=b&&(window.jstiming.srt=d-b)}if(a){var c=window.jstiming.load;0<b&&d>=
+b&&(c.tick("_wtsrt",void 0,b),c.tick("wtsrt_","_wtsrt",d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),c&&0<b&&(c.tick("_tbnd",void 0,window.chrome.csi().startE),c.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,c&&0<b&&(c.tick("_tbnd",void 0,window.external.startE),c.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico">
+<link rel="apple-touch-icon" href="http://www.gstatic.com/sites/p/4c01b9/system/app/images/apple-touch-icon.png" type="image/png">
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/4c01b9/system/app/pagetypes/announcements/announcements.css">
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/home","deleted":false,"title":"P\u00e1gina Inicial (Home)","dir":"ltr"}];
+  var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/4c01b9/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://1883258758-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":false,"sharingPolicy":"OPENED_WITH_INDICATOR","siteTitle":"Profe Ama Schroeder","experiments":{"enableSubpagesGadgetInTakeout":true,"overrideDisableDomainEditing":false,"DisableSiteEditingFeature__disable_site_editing":true,"disableDomainEditing":false},"jot2atari":{"eligibility":"INELIGIBLE"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"moreMobileStyleImprovements":null,"subscriptionDataMigrationInProgress":null,"plusBadge":false},"configProperties":{"disableSiteEditing":null},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttp://sites.google.com/a/senoritaschroeder.com/www/home\u0026service\u003djotspot","analyticsAccountId":"","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"http://csi.gstatic.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["http://www.gstatic.com/sites/p/4c01b9/system/app/css/sitelayouteditor.css"],"text":["http://www.gstatic.com/sites/p/4c01b9/system/js/codemirror.js","http://www.gstatic.com/sites/p/4c01b9/system/app/css/codemirror_css.css","http://www.gstatic.com/sites/p/4c01b9/system/js/trog_edit__en.js","http://www.gstatic.com/sites/p/4c01b9/system/app/css/trogedit.css","/_/rsrc/1628753612000/system/app/css/editor.css","http://www.gstatic.com/sites/p/4c01b9/system/app/css/codeeditor.css","/_/rsrc/1628753612000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"senoritaschroeder.com","baseUri":"","name":"www","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Phoenix","type":"announcements","title":"P\u00e1gina Inicial (Home)","locale":"en","wuid":"wuid:gx:3124718f9e2b6e44","revision":217,"path":"/home","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"home","canChangePath":false,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/announcements","title":"Announcements"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false,"isGoogleAdmin":false},"gadgets":{"baseUri":"/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="Profe Ama Schroeder">
+<meta itemprop="name" content="Profe Ama Schroeder">
+<meta property="og:title" content="Profe Ama Schroeder">
+<style type="text/css">
+      
+      /* cyrillic-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9C5kiK-u.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CdkiK-u.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9C9kiK-u.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CBkiK-u.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CFkiK-u.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CxkiK-u.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9C1kiK-u.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CNkiA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9C5kiK-u.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CdkiK-u.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9C9kiK-u.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CBkiK-u.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CFkiK-u.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CxkiK-u.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9C1kiK-u.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sCzZCDf9_T_10c9CNkiA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10UxCF8jA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10dxCF8jA.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10VxCF8jA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10axCF8jA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10bxCF8jA.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10WxCF8jA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10XxCF8jA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10ZxCE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10UxCF8jA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10dxCF8jA.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10VxCF8jA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10axCF8jA.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10bxCF8jA.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10WxCF8jA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10XxCF8jA.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/arimo/v17/P5sMzZCDf9_T_10ZxCE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem6YaGs126MiZpBA-UFUK0Udc1UAw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem6YaGs126MiZpBA-UFUK0ddc1UAw.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem6YaGs126MiZpBA-UFUK0Vdc1UAw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem6YaGs126MiZpBA-UFUK0adc1UAw.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem6YaGs126MiZpBA-UFUK0Wdc1UAw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem6YaGs126MiZpBA-UFUK0Xdc1UAw.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem6YaGs126MiZpBA-UFUK0Zdc0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/memnYaGs126MiZpBA-UFUKWiUNhmIqOjjg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/memnYaGs126MiZpBA-UFUKWiUNhvIqOjjg.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/memnYaGs126MiZpBA-UFUKWiUNhnIqOjjg.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/memnYaGs126MiZpBA-UFUKWiUNhoIqOjjg.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/memnYaGs126MiZpBA-UFUKWiUNhkIqOjjg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/memnYaGs126MiZpBA-UFUKWiUNhlIqOjjg.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/memnYaGs126MiZpBA-UFUKWiUNhrIqM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFWJ0bbck.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFUZ0bbck.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFWZ0bbck.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFVp0bbck.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFWp0bbck.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFW50bbck.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2) format('woff2');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/opensans/v23/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+    
+    </style>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/4c01b9/system/app/themes/ski/standard-css-ski-ltr-ltr.css">
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1628753612000/system/app/css/overlay.css?cb=ski6a100%25220goog-ws-leftnone30themedefaultstandard">
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1628753612000/system/app/css/camelot/allthemes-view.css">
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Prof. Ama Schroeder</title>
+<link type="application/atom+xml" rel="alternate" href="http://www.senoritaschroeder.com/home/posts.xml" title="Atom feed for www: Home Page">
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+<script type="text/javascript" charset="UTF-8" src="https://apis.google.com/js/platform.js" gapi_processed="true"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"><script src="http://www.google-analytics.com/ga.js"></script></head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tbody><tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner"><div class="sites-header-cell-buffer-wrapper"><h2><a href="http://www.senoritaschroeder.com/" dir="ltr" id="sites-chrome-userheader-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prof. Ama Schroeder</font></font></a></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site"><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site"><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0" style="user-select: none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Search this site</font></font></div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-tabs"><li class="current"><a class="sites-navigation-link current" href="/home"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home Page</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/about-schroeder"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About Me</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/contact-me"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Get in touch (Contact Me)</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://www.schoology.com/home" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Schoology</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/tecnologia"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technology: Resources</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="http://www.wordreference.com" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dictionary</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/recursos-y-materiales-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">General Resources</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/gram"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grammar (Grammar Structures)</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/temas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Thematic Vocabulary</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://www.svsd410.org/sms" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snoqualmie Middle School</font></font></a></li><li class="unselected"><a class="sites-navigation-link unselected" href="https://www.svsd410.org/tworivers" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Two Rivers School</font></font></a></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tbody><tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left initial" style="width:220px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotid="navList" class="has-expander"><li class="topLevel nav-first "><div class="current-bg" jotid="wuid:gx:3124718f9e2b6e44" dir="ltr" style="padding-left: 19px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home Page</font></font></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/about-schroeder" jotid="wuid:gx:159fc36ea0c029e2" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About Me</font></font></a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/contact-me" jotid="wuid:gx:7a1361eaeac169c7" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Get in touch (Contact Me)</font></font></a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/home/excursiones-videos" jotid="wuid:gx:548c609f86a5629b" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Excursions (videos)</font></font></a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/canvas" jotid="wuid:gx:7f488166d4319dfe" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Schoology</font></font></a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/tecnologia" jotid="wuid:gx:7563f2786ba5d172" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technology: Resources</font></font></a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/mindfulness" jotid="wuid:gx:6560e2511651ffde" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mindfulness</font></font></a></div></li><li class="topLevel parent " wuid="gx:7a90dfc30f18db6"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/recursos-y-materiales-1" jotid="wuid:gx:7a90dfc30f18db6" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">General Resources</font></font></a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/acentos" jotid="wuid:gx:847dd9688091bdb" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Accents</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/cultura" jotid="wuid:gx:5b1b8ea564ad7f69" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Culture</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/diccionario" jotid="wuid:gx:7bb2b6bf1c8ad008" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dictionary</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/escuchar" jotid="wuid:gx:4e6ea0423d9b425a" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Videos / Podcasts / Listening Activities</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/flashcards" jotid="wuid:gx:2de829f4342be569" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flashcards! </font><font style="vertical-align: inherit;">(Cards)</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/leer" jotid="wuid:gx:5a5569d0192311dc" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Readings and stories</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/mi-vida-loca-y-destinos" jotid="wuid:gx:5827be31a2cf1704" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">My crazy life and Destinations</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/musica" jotid="wuid:gx:46a3ebe23858a094" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Music</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/national-spanish-exam" jotid="wuid:gx:44a25b6c792609ef" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">National Spanish Exam</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/realidades" jotid="wuid:gx:bd9e48a529fee25" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Realities</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/recursos-y-materiales-1/periodicos" jotid="wuid:gx:33a366c83f0ccd60" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Newspapers and magazines</font></font></a></div></li><li class="parent closed " wuid="gx:6be03a4b154230f4"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/recursos-y-materiales-1/-por-que-espanol" jotid="wuid:gx:6be03a4b154230f4" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Why languages?</font></font></a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/recursos-y-materiales-1/-por-que-espanol/-como" jotid="wuid:gx:4dedcefcd5c3be40" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">How?</font></font></a></div></li></ul></li></ul></li><li class="topLevel parent " wuid="gx:6357fb19e394330c"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/temas" jotid="wuid:gx:6357fb19e394330c" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Thematic Vocabulary</font></font></a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/alfabeto" jotid="wuid:gx:42ca93b5d09d1bfc" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alphabet</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/animales" jotid="wuid:gx:715e8fa2bd4b50f2" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Animals</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/calendario" jotid="wuid:gx:26710fac92b4df6" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Calendar</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/casa" jotid="wuid:gx:718c62ef28154256" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/colores" jotid="wuid:gx:473f3c51a8a7d793" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Colors</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/comida" jotid="wuid:gx:5af52c22a2a19d4" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Food</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/comunidad" jotid="wuid:gx:2bc11748842295d9" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Community</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/cuerpo" jotid="wuid:gx:3907604921939653" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Body</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/dias-festivos" jotid="wuid:gx:26a5c5554919643f" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Holidays</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/familia" jotid="wuid:gx:339a03d864db522a" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Family</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/hora" jotid="wuid:gx:113c17ffee8c5a21" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Time</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/mapas-y-geografia" jotid="wuid:gx:3af85744e06ee145" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Maps and geography</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/nacionalidades" jotid="wuid:gx:403f58b3c520e08b" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nationalities</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/numeros" jotid="wuid:gx:6cd2e653de62d57f" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Numbers</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/objetos-de-la-clase" jotid="wuid:gx:74fa64e491de0765" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Class objects</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/preposiciones" jotid="wuid:gx:14a45751b67eed0c" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prepositions</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/pronunciaci" jotid="wuid:gx:4b244f7d59ff44d9" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pronunciation</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/ropa" jotid="wuid:gx:37553aea6cd4980b" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Clothing</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/presente/saludos" jotid="wuid:gx:1f2fdf7d17fe9149" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Greetings and farewells</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/tiempo" jotid="wuid:gx:4ffd2a251443f5c1" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Weather</font></font></a></div></li></ul></li><li class="topLevel parent " wuid="gx:5b0c967f07d25348"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/gram" jotid="wuid:gx:5b0c967f07d25348" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grammar (Grammar Structures)</font></font></a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/adjetivos" jotid="wuid:gx:439d535fb9083504" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adjectives</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/adjetivos-posesivos" jotid="wuid:gx:22f62a29285ef9d3" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Possessive adjectives</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/temas/articulos" jotid="wuid:gx:7ee1c565ac8bf540" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Articles</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/comparativos-y-superlativos" jotid="wuid:gx:2eaad150b67229c9" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Comparative and superlative</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/futuro" jotid="wuid:gx:3f8aec79f559903b" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Future</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/gustar" jotid="wuid:gx:224eb73ada78f736" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LIKE</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/imperativo" jotid="wuid:gx:2f3678e454128689" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Imperative / Mandates</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/interrogativos" jotid="wuid:gx:4836d1ec33111f49" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Interrogatives</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/ir" jotid="wuid:gx:16fe3c3a854475a3" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GO</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/los-objetos-indirectos" jotid="wuid:gx:b569f6b112fa295" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Indirect and direct objects</font></font></a></div></li><li class="parent closed " wuid="gx:6582d562612d73eb"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/gram/el-pasado" jotid="wuid:gx:6582d562612d73eb" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Past (Past vs. Imperfect)</font></font></a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gram/preterito-1" jotid="wuid:gx:6a9dc5fd6d8ca7cd" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Preterite</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gram/imperfecto" jotid="wuid:gx:430a3238808d772d" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Imperfect</font></font></a></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/perfectos" jotid="wuid:gx:68030877312c8dae" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Perfect</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/por-vs-para" jotid="wuid:gx:7b1e4b7c3dbf1acb" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">By vs. </font><font style="vertical-align: inherit;">To</font></font></a></div></li><li class="parent closed " wuid="gx:411e6926a5468051"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/gram/presente" jotid="wuid:gx:411e6926a5468051" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Present</font></font></a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gram/presente/los-verbos-de-bota" jotid="wuid:gx:5ec6e56a008057f8" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Boot verbs</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gram/presente/yo---go-oy---yo" jotid="wuid:gx:427f97ff320d428" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">I - go / oy - I</font></font></a></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/presente-progresivo" jotid="wuid:gx:5270a30f5e57b660" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Present progressive</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/pronombres-personales" jotid="wuid:gx:723d84a21163788a" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Personal pronouns</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/reflexivos" jotid="wuid:gx:251d27e0f0aa95de" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reflective</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/ser" jotid="wuid:gx:6d3db7c52b0ed172" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TO BE</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/ser-estar-tener" jotid="wuid:gx:2e7fa669d2322711" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TO BE, TO BE, TO HAVE</font></font></a></div></li><li class="parent closed " wuid="gx:795c26ca1bf81960"><div dir="ltr" style="padding-left: 19px;"><div class="expander"></div><a href="/gram/subjuntivo" jotid="wuid:gx:795c26ca1bf81960" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Subjunctive</font></font></a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 57px;"><a href="/gram/subjuntivo/subjuntivo-imperfecto" jotid="wuid:gx:2337db4df212f8a1" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Imperfect subjunctive (past tense)</font></font></a></div></li></ul></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/gram/tener" jotid="wuid:gx:5ce4b2b4f558677" class="sites-navigation-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HAVE</font></font></a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/espanol-para-los-mayores" jotid="wuid:gx:36bf769e783ad85a" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Spanish for the elderly</font></font></a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/espanol-ap" jotid="wuid:gx:1def5ca2cbcb20ef" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AP Spanish (AP Spanish)</font></font></a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/blog" jotid="wuid:gx:5493d3c4c08a9d0d" class="sites-navigation-link topLevel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Blog</font></font></a></div></li></ul></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_5517400209791958" class="sites-embed" role="navigation"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Navigation</font></font></h4><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotid="navList"><li class="nav-first "><div dir="ltr" style="padding-left: 5px;"><a href="https://www.svsd410.org/Domain/14" class="sites-navigation-link" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snoqualmie Middle School</font></font></a></div></li><li class=""><div dir="ltr" style="padding-left: 5px;"><a href="https://www.svsd410.org/tworivers" class="sites-navigation-link" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Two Rivers School</font></font></a></div></li></ul></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_6323913980741054" class="sites-sidebar-plusone-wrapper"><div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1629430278133" name="I0_1629430278133" src="https://apis.google.com/u/0/se/0/_/+1/fastbutton?usegapi=1&amp;count=true&amp;size=standard&amp;source=google%3Asites&amp;origin=http%3A%2F%2Fwww.senoritaschroeder.com&amp;url=http%3A%2F%2Fwww.senoritaschroeder.com%2Fhome&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.-B-Yl1giugs.O%2Fam%3DAQ%2Fd%3D1%2Frs%3DAGLTcCONWTFvihGrQAtWDoeeH_UUFfCMQg%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1629430278133&amp;_gfid=I0_1629430278133&amp;parent=http%3A%2F%2Fwww.senoritaschroeder.com&amp;pfname=&amp;rpctoken=34115643" data-gapiattached="true"></iframe></div><div class="g-plusone" data-count="true" data-size="standard" data-source="google:sites" data-gapiscan="true" data-onload="true" data-gapistub="true"></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Home Page</font></font></span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><strong><font face="Arial">
+</font></strong><div style="text-align:center"><strong>
+</strong><div><strong><strong style="line-height:21px;text-align:left"><font style="font-family:Arial">
+</font><div style="font-family:Arial;text-align:center"><font>
+</font><div><font>
+</font></div><div><strong style="font-family:Open Sans"><strong style="line-height:21px;text-align:left"><font face="Arial"><div style="font-family:Open Sans;text-align:center"><p><span style="font-size:14pt"><font color="#000000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">------------------------</font></font></font></span></p></div></font></strong></strong></div></div>
+<div style="text-align:center"><font color="#444444" face="trebuchet ms, sans-serif" size="5" style="font-weight:normal"><b><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Learning a new language opens the doors to a new world ...</font></font></i></b></font></div>
+<div style="font-family:Open Sans;text-align:center">
+<p align="center"><i><span style="font-size:13.0pt;font-family:Marker Felt"><font color="#000000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"If you talk to a man in a language he understands, that goes to his head.</font></font></font></span></i></p>
+<p align="center"><i><span style="font-size:13.0pt;font-family:Marker Felt"><font color="#000000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">If you talk to him in his language, that goes to his heart. "-Nelson Mandela</font></font></font></span></i></p>
+<p style="text-align:center"><span style="font-size:14.0pt"><font color="#999999"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">"Language is the key, for words can ultimately make a difference between ignorance and understanding, between poverty and wealth, between war and peace." </font><font style="vertical-align: inherit;">-Dr. </font><font style="vertical-align: inherit;">William Hopkins</font></font></font></span></p><p style="text-align:center"><span style="font-size:14.0pt"><font color="#000000"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">------------------------</font></font></font></span></p><div style="font-family:Arial;font-weight:400"><div><div><b><font size="5"><a href="https://www.facebook.com/339038569845895/videos/501525156930568/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ecuador 2018</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &nbsp;made the&nbsp; </font></font><a href="https://www.facebook.com/339038569845895/videos/501525156930568/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">local news</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &nbsp;in Paute!&nbsp;&nbsp;</font></font></font></b></div><div style="font-family:Open Sans;font-weight:bold"><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:425px;"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ecuador 2018</font></font></h4><div class="sites-embed-content sites-embed-type-docs-video"><iframe width="425" height="265" frameborder="0" allowfullscreen="true" src="https://docs.google.com/file/d/1Qtx27offtoEcs9M07K6IK7gEf8zUH9U8/preview"></iframe></div></div></div></div><span style="font-family:Open Sans;font-weight:bold;margin-right:auto;margin-left:auto"><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:425px;"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Guate and Belize 2017</font></font></h4><div class="sites-embed-content sites-embed-type-docs-video"><iframe width="425" height="265" frameborder="0" allowfullscreen="true" src="https://docs.google.com/file/d/0B80aUn8ogz0SY0tIRG5wYnI2Ymc/preview"></iframe></div></div></div></span></div><div style="font-family:Open Sans;font-weight:bold"><div><div><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:425px;"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Guatemala 2016 - The Penguins</font></font></h4><div class="sites-embed-content sites-embed-type-docs-video"><iframe width="425" height="265" frameborder="0" allowfullscreen="true" src="https://docs.google.com/file/d/1DkBTDt9BvMoQp5ObVeRxkES4lqd7Eegd/preview"></iframe></div></div></div></div></div><b style="font-family:Arial"><div style="font-size:medium"><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:425px;"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Guatemala 2014.mov</font></font></h4><div class="sites-embed-content sites-embed-type-docs-video"><iframe width="425" height="265" frameborder="0" allowfullscreen="true" src="https://docs.google.com/file/d/1vl2A5u7lNJ0OYFJxfU_YX0XsMutk3Ut4/preview"></iframe></div></div></div></div><div style="font-size:medium"><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:800px;"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2015: Chile, Argentina, Uruguay, Spain, Portugal (The Portuguese way)</font></font></h4><div class="sites-embed-content sites-embed-type-picasa"><iframe width="800" height="533" style="border:0; overflow:hidden;" src="http://www.senoritaschroeder.com/system/app/pages/picasaembed?user=109714431124908855642&amp;album=2015ChileArgentinaUruguaySpainPortugalElCaminoPortugues&amp;size=exExLarge"></iframe></div></div></div></div></b></div></div><div><strong><strong style="line-height:21px;text-align:left"><font face="Arial"><div style="font-family:Open Sans;text-align:center"><div><strong style="line-height:21px;text-align:left"><font face="Arial"><div style="text-align:center"><strong style="font-family:Open Sans"><strong style="line-height:21px;text-align:left"><font face="Arial"><div style="font-family:Open Sans;text-align:center"><div style="font-weight:400"><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:425px;"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Portuguese Way 2015</font></font></h4><div class="sites-embed-content sites-embed-type-docs-video"><iframe width="425" height="265" frameborder="0" allowfullscreen="true" src="https://docs.google.com/file/d/13KvaWpNcsNCeHOihAdSYVqrGVsghoHwd/preview"></iframe></div></div></div></div></div></font></strong></strong></div></font></strong></div><div style="font-weight:400"><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:480px;"><h4 class="sites-embed-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Peru 2013</font></font></h4><div class="sites-embed-content sites-embed-type-youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" src="https://www.youtube.com/embed/DNeeuDPNipQ?rel=0&amp;wmode=opaque" frameborder="0" allowfullscreen="true" width="480" height="270"></iframe></div></div></div></div></div></font></strong></strong></div>
+</div>
+</strong></strong></div>
+</div>
+<div dir="ltr">
+<div dir="ltr">
+<div></div>
+</div>
+</div>
+<div><br></div><div><br></div><div><div style="text-align:center"><br></div><div style="text-align:center"><div><br></div><br></div><div style="text-align:center"><br></div><div style="text-align:center"><br></div><br></div><div><br></div>
+<br></div></td></tr></tbody></table>
+</div> 
+<div xmlns="http://www.w3.org/1999/xhtml" class="announcements">
+<div class="sites-clear" style="padding: 0 0 5px;">
+<img src="/_/rsrc/1628753612000/system/app/images/icon_feed.gif" style="border:none; vertical-align: middle;">
+<a href="http://www.senoritaschroeder.com/home/posts.xml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                      Subscribe to posts</font></font></a>
+</div>
+<div class="sites-clear" style="padding: 0 0 10px 5px;">
+<p>
+</p>
+</div>
+</div>
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</tbody></table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=http://sites.google.com/a/senoritaschroeder.com/www/home&amp;service=jotspot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sign in </font></font></a><span aria-hidden="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span><a class="sites-system-link" href="http://sites.google.com/a/senoritaschroeder.com/www/system/app/pages/reportAbuse" target="_blank"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Report Abuse </font></font></a><span aria-hidden="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Print Page </font></font></a><span aria-hidden="true"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font></span><span class="sites-system-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Powered By </font></font></span> <b class="powered-by"><a href="http://sites.google.com/site"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Google Sites</font></font></a></b></p></div>
+</div>
+</div> 
+</div> 
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/4c01b9/system/js/jot_min_announcements_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                JOT_postEvent('moduleLoad');
+              </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("5517400209791958", "Navigation", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_5517400209791958');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+
+
+<div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><iframe name="oauth2relay491410664" id="oauth2relay491410664" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fwww.senoritaschroeder.com&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.-B-Yl1giugs.O%2Fam%3DAQ%2Fd%3D1%2Frs%3DAGLTcCONWTFvihGrQAtWDoeeH_UUFfCMQg%2Fm%3D__features__#rpctoken=464839867&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
